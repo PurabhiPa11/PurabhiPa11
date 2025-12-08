@@ -17,7 +17,7 @@ I am currently working on expanding my practical experience and my portfolio, ex
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="httpsillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=git" />
