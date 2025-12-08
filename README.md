@@ -35,12 +35,6 @@ I am currently working on expanding my practical experience and my portfolio, ex
 <p>
   📩 Feel free to reach out for collaborations or learning opportunities.  
 </p>
-<p>
-  <a href="mailto:your-email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35" />
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
-  </a>
+
 </p>
 ---
