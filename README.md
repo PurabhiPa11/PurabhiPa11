@@ -29,18 +29,15 @@ I am currently working on expanding my practical experience and my portfolio, ex
 </p>
 
 ---
-
 ### 📚 Concepts  
-<p>
-  <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Concepts-green?style=for-the-badge" />
-</p>
+- 🧠 Data Structures & Algorithms (DSA)  
+- 🏷️ Object-Oriented Programming (OOP)
 
 ---
 
 ### 🌐 Connect with Me  
 <p>
-  📩 Feel free to reach out for collaborations, questions, or learning opportunities.  
+  📩 Feel free to reach out for collaborations or learning opportunities.  
 </p>
 <p>
   <a href="mailto:your-email">
