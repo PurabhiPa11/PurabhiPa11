@@ -45,10 +45,3 @@ I am currently working on expanding my practical experience, exploring different
 </p>
 
 ---
-
-### 🚀 Extra Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding-%F0%9F%92%BB-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Active%20Learner-%F0%9F%93%9A-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-%F0%9F%8C%9F-green?style=for-the-badge">
-</p>
