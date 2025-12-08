@@ -27,7 +27,7 @@ I am currently working on expanding my practical experience and my portfolio, ex
 ---
 ### 📚 Concepts  
 - 🧠 Data Structures & Algorithms (DSA)  
-- 🏷️ Object-Oriented Programming (OOP)
+- 🏷️ Object Oriented Programming (OOP)
 
 ---
 
