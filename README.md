@@ -1,10 +1,6 @@
 <h1 align="center">✨ Purabhi Patil</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-CSE-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20to%20Learning-Yes-success?style=flat-square">
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-%F0%9F%94%A5-pink?style=flat-square">
-</p>
+<p align="center">📚 Studying Computer Science Engineering at DES Pune University</p>
 
 ---
 
