@@ -11,9 +11,9 @@
 ### 👩‍💻 About Me
 A growing journey in computer science continues to open new opportunities to learn and explore. From experimenting with different technologies to understanding core programming concepts, each step contributes to a stronger technical foundation and steady personal improvement.
 
-I'm committed to continuous growth, staying curious, embracing challenges, and learning from every experience—both inside and outside the classroom. This approach helps build a mindset that values improvement, adaptability, and thoughtful problem-solving.
+I'm committed to continuous growth, staying curious, embracing challenges, and learning from every experience both inside and outside the classroom. This approach helps build a mindset that values improvement, adaptability, and thoughtful problem solving.
 
-I am currently working on expanding my practical experience, exploring different areas within technology, and discovering where my interests align best. Always open to collaboration, guidance, and learning opportunities that support meaningful development.
+I am currently working on expanding my practical experience and my portfolio, exploring different areas within technology, and discovering where my interests align best. Always open to collaboration, guidance, and learning opportunities that support meaningful development.
 
 ---
 
