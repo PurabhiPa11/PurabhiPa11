@@ -20,6 +20,7 @@ I am currently working on expanding my practical experience and my portfolio, ex
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
@@ -28,6 +29,7 @@ I am currently working on expanding my practical experience and my portfolio, ex
 ### 📚 Concepts  
 - 🧠 Data Structures & Algorithms (DSA)  
 - 🏷️ Object Oriented Programming (OOP)
+- 🗄️ Database Management Systems (DBMS)
 
 ---
 
