@@ -1,4 +1,4 @@
-<h1 align="center">✨ Purabhi Patil</h1>
+<h1 align="center"> Purabhi Patil</h1>
 
 <p align="center">📚 Studying Computer Science Engineering at DES Pune University</p>
 
