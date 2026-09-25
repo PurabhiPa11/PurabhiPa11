@@ -1,27 +1,29 @@
-# Purabhi Patil
+<h1 align="center">Purabhi Patil</h1>
 
-Studying Computer Science Engineering at D.E.S. Pune University
+<p align="center">
+  Studying Computer Science Engineering at D.E.S. Pune University
+</p>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 A Computer Science Engineering student exploring software development through
-hands-on projects, internships, and continuous experimentation. I enjoy
-turning ideas into practical applications while building a strong foundation
-in programming, algorithms, databases, and modern web technologies.
+hands-on experimentation. I enjoy turning ideas into practical applications
+while building a strong foundation in programming, algorithms, databases,
+and modern web technologies.
 
 I'm interested in understanding how technology works beyond the surface —
 from writing efficient code and designing systems to creating clean and
 interactive user experiences.
 
-Currently expanding my technical skills across software development,
-frontend technologies, AI/ML, and cloud while continuously learning,
-building, and experimenting with new ideas.
+Currently expanding my technical skills across software development, frontend
+technologies, AI/ML, and cloud while continuously learning, building, and
+experimenting with new ideas.
 
 ---
 
-## Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 HTML · CSS · C · C++ · Java · Python · JavaScript  
 React · Next.js · Tailwind CSS · Java Swing · JDBC  
@@ -30,7 +32,7 @@ AI / ML · Generative AI · Prompt Engineering
 
 ---
 
-## Concepts
+<h2 align="center">Concepts</h2>
 
 - 🧠 Data Structures & Algorithms (DSA)
 - 🧩 Object-Oriented Programming (OOP)
@@ -39,10 +41,22 @@ AI / ML · Generative AI · Prompt Engineering
 - 🌐 Web Development
 - 🤖 Artificial Intelligence & Machine Learning
 
-###  Connect with Me  
-<p>
-  📩 Feel free to reach out for collaborations or learning opportunities.  
-</p>
+---
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+
+📩 Feel free to reach out for collaborations or learning opportunities.
 
 </p>
----
+
+<p align="center">
+  <a href="https://github.com/PurabhiPa11">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://linkedin.com/in/purabhi-patil-572774370">
+    LinkedIn
+  </a>
+</p>
