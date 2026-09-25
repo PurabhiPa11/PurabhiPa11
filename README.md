@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2>About Me</h2>
 
 A Computer Science Engineering student exploring software development through
 hands-on experimentation. I enjoy turning ideas into practical applications
@@ -23,7 +23,7 @@ experimenting with new ideas.
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 HTML · CSS · C · C++ · Java · Python · JavaScript  
 React · Next.js · Tailwind CSS · Java Swing · JDBC  
@@ -32,7 +32,7 @@ AI / ML · Generative AI · Prompt Engineering
 
 ---
 
-<h2 align="center">Concepts</h2>
+<h2>Concepts</h2>
 
 - 🧠 Data Structures & Algorithms (DSA)
 - 🧩 Object-Oriented Programming (OOP)
@@ -43,7 +43,7 @@ AI / ML · Generative AI · Prompt Engineering
 
 ---
 
-<h2 align="center">Connect with Me</h2>
+<h2>Connect with Me</h2>
 
 <p align="center">
 
