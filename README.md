@@ -1,37 +1,43 @@
-<h1 align="center"> Purabhi Patil</h1>
+# Purabhi Patil
 
-<p align="center"> Studying Computer Science Engineering at DES Pune University</p>
-
----
-
-###  About Me
-A growing journey in computer science continues to open new opportunities to learn and explore. From experimenting with different technologies to understanding core programming concepts, each step contributes to a stronger technical foundation and steady personal improvement.
-
-I'm committed to continuous growth, staying curious, embracing challenges, and learning from every experience both inside and outside the classroom. This approach helps build a mindset that values improvement, adaptability, and thoughtful problem solving.
-
-I am currently working on expanding my practical experience and my portfolio, exploring different areas within technology, and discovering where my interests align best. Always open to collaboration, guidance, and learning opportunities that support meaningful development.
+Studying Computer Science Engineering at D.E.S. Pune University
 
 ---
 
-###  Languages and Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+## About Me
+
+A Computer Science Engineering student exploring software development through
+hands-on projects, internships, and continuous experimentation. I enjoy
+turning ideas into practical applications while building a strong foundation
+in programming, algorithms, databases, and modern web technologies.
+
+I'm interested in understanding how technology works beyond the surface —
+from writing efficient code and designing systems to creating clean and
+interactive user experiences.
+
+Currently expanding my technical skills across software development,
+frontend technologies, AI/ML, and cloud while continuously learning,
+building, and experimenting with new ideas.
 
 ---
-###  Concepts  
-- 🧠 Data Structures & Algorithms (DSA)  
-- 🏷️ Object Oriented Programming (OOP)
+
+## Languages and Tools
+
+HTML · CSS · C · C++ · Java · Python · JavaScript  
+React · Next.js · Tailwind CSS · Java Swing · JDBC  
+Git · GitHub · VS Code · AWS · Figma · Canva  
+AI / ML · Generative AI · Prompt Engineering
+
+---
+
+## Concepts
+
+- 🧠 Data Structures & Algorithms (DSA)
+- 🧩 Object-Oriented Programming (OOP)
 - 🗄️ Database Management Systems (DBMS)
-
----
+- ⚙️ Design & Analysis of Algorithms
+- 🌐 Web Development
+- 🤖 Artificial Intelligence & Machine Learning
 
 ###  Connect with Me  
 <p>
