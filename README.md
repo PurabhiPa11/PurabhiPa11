@@ -8,18 +8,17 @@
 
 <h2>About Me</h2>
 
-A Computer Science Engineering student exploring software development through
-hands-on experimentation. I enjoy turning ideas into practical applications
-while building a strong foundation in programming, algorithms, databases,
-and modern web technologies.
+I'm a Computer Science Engineering student passionate about frontend
+development and creating clean, interactive digital experiences. I enjoy
+bringing ideas to life through thoughtful interfaces, modern web technologies,
+and a balance of code and design.
 
-I'm interested in understanding how technology works beyond the surface —
-from writing efficient code and designing systems to creating clean and
-interactive user experiences.
+Alongside frontend development, I'm strengthening my foundations in
+programming, data structures, databases, and software development through
+hands-on projects and industry experience.
 
-Currently expanding my technical skills across software development, frontend
-technologies, AI/ML, and cloud while continuously learning, building, and
-experimenting with new ideas.
+Currently exploring modern frontend technologies, AI, and new ways to build
+better digital experiences.
 
 ---
 
