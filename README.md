@@ -23,15 +23,16 @@ experimenting with new ideas.
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,js,react,nextjs,tailwind,git,github,vscode,aws,figma,canva" />
 </p>
 
-<p align="center">
+<p>
   AI / ML &nbsp; • &nbsp; Generative AI &nbsp; • &nbsp; Prompt Engineering
 </p>
+
 ---
 
 <h2>Concepts</h2>
@@ -47,8 +48,6 @@ experimenting with new ideas.
 
 <h2>Connect with Me</h2>
 
-<p align="center">
-
+<p>
 📩 Feel free to reach out for collaborations or learning opportunities.
-
 </p>
