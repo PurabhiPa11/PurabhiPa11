@@ -23,13 +23,15 @@ experimenting with new ideas.
 
 ---
 
-<h2>Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
-HTML · CSS · C · C++ · Java · Python · JavaScript  
-React · Next.js · Tailwind CSS · Java Swing · JDBC  
-Git · GitHub · VS Code · AWS · Figma · Canva  
-AI / ML · Generative AI · Prompt Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python,js,react,nextjs,tailwind,git,github,vscode,aws,figma,canva" />
+</p>
 
+<p align="center">
+  AI / ML &nbsp; • &nbsp; Generative AI &nbsp; • &nbsp; Prompt Engineering
+</p>
 ---
 
 <h2>Concepts</h2>
