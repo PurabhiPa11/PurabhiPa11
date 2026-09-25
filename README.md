@@ -50,13 +50,3 @@ AI / ML · Generative AI · Prompt Engineering
 📩 Feel free to reach out for collaborations or learning opportunities.
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/PurabhiPa11">
-    GitHub
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/purabhi-patil-572774370">
-    LinkedIn
-  </a>
-</p>
